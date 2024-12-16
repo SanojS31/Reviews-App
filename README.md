@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgareviewsapp.ccbp.tech/](https://durgareviewsapp.ccbp.tech/)🔗
+## **_Website_**:[https://reviews-app-lilac.vercel.app/](https://reviews-app-lilac.vercel.app/)🔗
 
 
 
