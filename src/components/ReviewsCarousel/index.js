@@ -70,7 +70,7 @@ class ReviewsCarousel extends Component {
           >
             <img
               src="https://assets.ccbp.in/frontend/react-js/right-arrow-img.png"
-              alt="right arrow"
+              alt="right arrow img"
             />
           </button>
         </div>
